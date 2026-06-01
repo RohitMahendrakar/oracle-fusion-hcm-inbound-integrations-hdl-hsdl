@@ -35,32 +35,7 @@ The project includes:
 
 ---
 
-# 📂 Project Structure
 
-```bash
-Oracle-Fusion-HCM-HDL-HSDL-Inbound-Integrations/
-│
-├── HDL/
-│   ├── Worker_Load.dat
-│   ├── Job_Load.dat
-│   ├── Department_Load.dat
-│   ├── Location_Load.dat
-│   └── Assignment_Changes.dat
-│
-├── HSDL/
-│   ├── Worker_HSDL.xlsx
-│   ├── Department_HSDL.xlsx
-│   └── Job_HSDL.xlsx
-│
-├── Screenshots/
-│   ├── HDL_Load_Process/
-│   ├── Worker_Load/
-│   ├── Job_Load/
-│   ├── HSDL_Implementation/
-│   └── Error_Handling/
-│
-└── README.md
-```
 
 ---
 
